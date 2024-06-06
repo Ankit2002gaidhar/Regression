@@ -1,0 +1,6 @@
+- Design & develop a machine learning model to
+- Perform the EDA
+- Apply linear regression ( To predict the price of the house )
+- Apply multiple linear regression( To predict the insurance cost  )
+- Apply Logistic regression ( To predict the heart disease )
+- Evaluate the performance using R2Score
